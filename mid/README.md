@@ -1,6 +1,6 @@
-# 基於Q-Learning 來遊玩21點 使用chatgpt 看過且懂了
+# 基於Q-Learning 來遊玩21點 使用chatgpt 看過且懂了 有手動修改參數
 
-## 使用chatgpt 看過且懂了
+## 使用chatgpt 看過且懂了 有手動修改參數
 
 ## 目標
 

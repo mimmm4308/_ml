@@ -27,7 +27,7 @@ def get_state(player, dealer_card):
     return (hand_value(player), dealer_card)
 
 # Q-Learning 訓練函數
-def train_q_learning(episodes=100000, alpha=0.1, gamma=0.95, epsilon=0.1):
+def train_q_learning(episodes=500000, alpha=0.1, gamma=0.95, epsilon=0.1):
     Q = defaultdict(lambda: np.zeros(len(ACTIONS)))
 
     for _ in range(episodes):
@@ -142,7 +142,7 @@ def play_game(Q):
 
 # 主程式
 if __name__ == "__main__":
-    print("訓練 Q-Learning Blackjack AI，請稍後...")
+    print("訓練 Q-Learning Blackjack AI，請稍後... 訓練500000次需要幾秒")
     Q = train_q_learning()
     save_q_table(Q)
 
