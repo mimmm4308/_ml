@@ -1,4 +1,4 @@
-# Blackjack Q-Learning 專案解說
+# 基於Q-Learning 來遊玩21點 使用chatgpt 看過且懂了
 
 ## 使用chatgpt 看過且懂了
 
@@ -91,10 +91,3 @@ Q-Learning 是一種強化學習算法，透過以下方式學習策略：
 ## 📌 小結
 
 這個 Blackjack AI 使用 Q-Learning 成功學會了在不同局勢中選擇「要牌」或「停牌」。玩家可透過互動介面實際與 AI 對戰，觀察其學習後的表現。
-
-可以進一步擴展功能：
-
-* 記錄每局勝率統計
-* 加入 GUI 圖形化界面
-* 使用神經網路進行 Deep Q-Learning
-* 玩家下注與籌碼管理
