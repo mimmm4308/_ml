@@ -1,5 +1,7 @@
 # Blackjack Q-Learning 專案解說
 
+## 使用chatgpt 看過且懂了
+
 ## 目標
 
 實作一個基於 Q-Learning 的 AI，學會在 21 點（Blackjack）遊戲中根據局勢選擇最佳行動（Hit 或 Stand），並提供與玩家互動的模擬器。

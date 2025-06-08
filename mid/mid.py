@@ -1,3 +1,4 @@
+# 使用chatgpt 看過且懂了
 import random
 import numpy as np
 import csv
